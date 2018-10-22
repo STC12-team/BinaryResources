@@ -1,0 +1,2 @@
+# BinaryResources
+Бинарные файлы
